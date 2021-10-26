@@ -1,0 +1,5 @@
+Credentials cache: API:465170F0-E16C-4562-841C-B7D2E8579CF6
+        Principal: csalmora@42BARCELONA.COM
+
+  Issued                Expires             Flags    Principal
+Oct 26 16:11:14 2021  Oct 27 02:11:03 2021  FPIA   krbtgt/42BARCELONA.COM@42BARCELONA.COM
