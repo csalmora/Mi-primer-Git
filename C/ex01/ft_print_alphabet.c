@@ -1,11 +1,9 @@
-#include<stdio.h>
+#include<unistd.h>
 
 void ft_print_alphabet( char letra ){
- 
-	letra= 'a';
-
+  
 	do{
-		printf("%c" ,letra );
+		write(1 ,&letra,1 );
 		letra++;
 	} while(letra <= 'z');
  
